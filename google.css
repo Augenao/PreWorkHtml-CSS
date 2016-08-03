@@ -1,0 +1,125 @@
+
+#topright{
+	right: 0;
+  top: 8px;
+  position: absolute;
+	margin-right: 25px;
+}
+#topright td{
+	font-size: 13px;
+	padding: 8px;
+}
+#topright a{
+	color: #000;
+}
+.app_icon{
+	width: 25px;
+	height: 25px;
+}
+.bell_icon{
+	width: 27px;
+	height: 27px;
+}
+#topright td div{
+  background-color: #512da8;
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+  text-align: center;
+  border: 1px solid purple;
+}
+#topright td p{
+	color: white;
+	margin-top: 3px;
+	font-size: 17px;
+}
+
+body {
+  background-color: grey;
+}
+
+.box_header {
+	margin: 5px;
+	display: inline-block;
+}
+
+.container {
+	margin-top: 160px;
+	vertical-align: middle;
+	text-align: center;
+
+}
+
+.logo {
+	margin: 32px 4px;
+	width: 272px;
+	height: 92px;
+}
+
+.search_bar {
+	margin-left: 280px;
+	margin-bottom: 30px;
+	border-style: solid;
+	border-color: #d9d9d9;
+  border-width: 1px;
+  width: 586px;
+  height: 40px;
+}
+.search_input {
+	left: 0;
+	width: 543px;
+	height: 38px;
+	border:0;
+}
+.voice_icon {
+	margin-bottom: 2px;
+	margin-left: 5px;
+	width: 13px;
+	height: 21px;
+}
+
+.search_button{
+	margin: 20px;
+}
+.button{
+	background-color: #f1f1f1;
+	font-weight: bold;
+	font-size: 13px;
+	color: #757575;
+	border:1px solid #f1f1f1;
+	margin:2px;
+	padding: 8px 15px;
+}
+.button:hover {
+	border: 1px solid #757575;
+}
+.idiomas{
+	margin: 25px 2px;
+	font-size: 13px;
+}
+.idiomas a{
+	color:#1a0dab;
+}
+
+footer {
+	position:fixed;
+	border-top: 1px solid #e4e4e4;
+	bottom: 0;
+	left: 0;
+	padding: 10px 16px;
+	width: 100%;
+  background-color: #f2f2f2;
+}
+
+footer a{
+	color: #666;
+	font-size: 13px;
+	margin: 15px;
+}
+
+#bottomright{
+	right: 0;
+  bottom: 11px;
+  position: absolute;
+	margin-right: 15px;
+}
